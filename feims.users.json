@@ -1,0 +1,26 @@
+[
+  {
+    "_id": {
+      "$oid": "65f9c436dfc24e99ad1de608"
+    },
+    "username": "inventorymanager",
+    "password": "invmng123",
+    "role": 1
+  },
+  {
+    "_id": {
+      "$oid": "65f9c614dfc24e99ad1de60a"
+    },
+    "username": "productmanager",
+    "password": "prodmng123",
+    "role": 2
+  },
+  {
+    "_id": {
+      "$oid": "65fdcb61468976d2f1803c9e"
+    },
+    "username": "financemanager",
+    "password": "finanmng123",
+    "role": 3
+  }
+]
